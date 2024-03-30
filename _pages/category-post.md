@@ -2,6 +2,9 @@
 title: "Post"
 layout: archive
 permalink: /post
+author_profile: true
+sidebar:
+    nav: "sidebar-category"
 ---
 
 
