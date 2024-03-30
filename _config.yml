@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "테크덕후 MaDi의-인생수업"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : "발전하는 삶, 여유로운 삶을 추구하는 테크덕후 Madi의 블로그에 오신 것을 환영합니다."
+name                     : "MaDi"
+description              : "안녕하세요 테크덕후 MaDi입니다."
 url                      : "https://Rayjun0525.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
