@@ -16,9 +16,9 @@ minimal_mistakes_skin    :  "air" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "테크덕후 MaDi의-인생수업"
+title                    : "테크덕후 MaDi의 [인생수업]"
 title_separator          : "-"
-subtitle                 : "발전하는 삶, 여유로운 삶을 추구하는 테크덕후 Madi의 블로그에 오신 것을 환영합니다."
+subtitle                 : #"발전하는 삶, 여유로운 삶을 추구하는 테크덕후 Madi의 블로그에 오신 것을 환영합니다."
 name                     : "MaDi"
 description              : "안녕하세요 테크덕후 MaDi입니다."
 url                      : "https://Rayjun0525.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "MaDi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "안녕하세요 **MaDi** 입니다."
+  bio              : "발전하는 삶, 여유로운 삶을 추구하는 테크덕후 Madi입니다. 제 블로그에 오신 것을 환영합니다."
   location         : "Seoul, Korea"
   email            :
   links:
@@ -128,6 +128,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Book"
+      url: "https://wikidocs.net/book/8814"
 
 # Site Footer
 footer:
