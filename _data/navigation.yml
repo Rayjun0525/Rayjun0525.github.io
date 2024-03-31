@@ -17,4 +17,3 @@ sidebar-category:
     children:
       - title: "test-post"
         url: "/post"
-        # category: "post"
