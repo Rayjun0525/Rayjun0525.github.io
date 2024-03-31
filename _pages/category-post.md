@@ -2,7 +2,6 @@
 title: "TEST01"
 layout: archive
 permalink: /post
-author_profile: true
 ---
 
 {% assign posts = site.categories.post %}
