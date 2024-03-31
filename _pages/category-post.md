@@ -3,8 +3,6 @@ title: "TEST01"
 layout: archive
 permalink: /post
 author_profile: true
-sidebar:
-    nav: "sidebar-category"
 ---
 
 {% assign posts = site.categories.post %}

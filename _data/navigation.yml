@@ -11,9 +11,8 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 sidebar-category:
-  - title: "카테고리"
+  - title: "💻 Programming"
     children:
-      - title: "Profile"
-        url: "/profile"
-      - title: "Post"
-        url:  "/post"
+      - title: "test-post"
+        url: "/post"
+        category: "post"
