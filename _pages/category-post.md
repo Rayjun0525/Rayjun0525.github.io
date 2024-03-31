@@ -2,6 +2,8 @@
 title: "TEST01"
 layout: archive
 permalink: /post
+sidebar:
+  nav: "sidebar-navigation"
 ---
 
 {% assign posts = site.categories.post %}

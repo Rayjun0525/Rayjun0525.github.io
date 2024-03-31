@@ -297,4 +297,4 @@ defaults:
       toc_label: "목차"
       sidebar_main: true
       sidebar:                 
-        nav: "sidebar-category"
+        nav: "sidebar-navigation"
