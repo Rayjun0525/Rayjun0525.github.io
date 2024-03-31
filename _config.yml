@@ -296,5 +296,5 @@ defaults:
       toc_sticky: true
       toc_label: "목차"
       sidebar_main: true
-      sidbar:
+      sidebar:                 
         nav: "sidebar-category"
